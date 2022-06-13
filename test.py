@@ -23,7 +23,3 @@ sleep(3)
 # current_path = Path(__file__).parent
 # filename = os.path.join(str(current_path), 'session2.png')
 # driver.save_screenshot(filename)
-
-
-
-
